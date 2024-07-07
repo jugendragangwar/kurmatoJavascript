@@ -12,20 +12,16 @@ Calculate the factorial of a number.============ while loop
 Generate a multiplication table for a given number.============ while loop
 Implement a basic calculator using if-else statements.============
 Validate a simple password (e.g., at least 8 characters, includes a number).
-Print the Fibonacci series up to a certain number.
 Print a pattern of stars in a pyramid shape.
-Check if a number is an Armstrong number.
-
-
-
-
+Check if a number is an Armstrong number.==================
+Print the Fibonacci series up to a certain number.===========
+Check if a string is a palindrome.==============
+Find the sum of digits of a number.===============
 
 
 Check if a string contains a specific substring.
 Find the largest and smallest numbers in an array. 
-Check if a string is a palindrome.
 Check if an object is empty.
-Determine the quadrant of a point in a coordinate system.
 Sum all numbers in an array.
 Find the maximum number in an array.
 Count the number of vowels in a string.
@@ -33,4 +29,4 @@ Reverse a string.
 Check if all elements in an array are positive.
 Remove duplicates from an array.
 Flatten a nested array.
-Find the sum of digits of a number.
+
