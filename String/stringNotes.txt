@@ -1,16 +1,16 @@
 const name= "Jugendra";
 const repoCount=40;
-=> Best way to print String
+=====> Best way to print String
 console.log('Hello my name is ${name} and my repo count is ${repoCount}');
 
 
-=> How to declare string in js
+=====> How to declare string in js
 1st Type
 >  const name= "Jugendra";
 2nd Type
 >  const gameName= new String('hillclimbing')
 
-=> String Metods in js
+=====> String Metods in js
 
 > String.charAt(pass a number)
 const gameName= new String('hillclimbing');
@@ -29,14 +29,29 @@ const gameName= new String('HillClimbinG');
 console.log(gameName.toLowerCase());
 
 > String.indexof( pass a charcter)
+const gameName= new String('HillClimbinG');
+console.log(gameName.indexOf('C'));
 
+> String substring()
+const gameName= new String('HillClimbinG');
+console.log(gameName.substring(1,4));
 
-String substring()
-String.charCodeAt()
-String at()
-String [ ]
-String slice()
-String substr()
+> String.charCodeAt()
+const gameName= new String('HillClimbinG');
+console.log(gameName.charCodeAt(08));
+
+> String at()
+const gameName= new String('HillClimbinG');
+console.log(gameName.at(08));
+
+> String slice()
+const gameName= new String("Apple,Mango,Grapes");
+console.log(gameName.slice(6,11));
+
+> String substr()
+const gameName= new String("Apple,Mango,Grapes");
+console.log(gameName.substr(0,5));
+
 String concat()
 String trim()
 String trimStart()
@@ -47,3 +62,4 @@ String repeat()
 String replace()
 String replaceAll()
 String split()
+String [ ]
