@@ -11,8 +11,7 @@ Print all even numbers from 1 to 100.============= for
 Calculate the factorial of a number.============ while loop
 Generate a multiplication table for a given number.============ while loop
 Implement a basic calculator using if-else statements.============
-Validate a simple password (e.g., at least 8 characters, includes a number).
-Print a pattern of stars in a pyramid shape.
+Print a pattern of stars in a pyramid shape.==============
 Check if a number is an Armstrong number.==================
 Print the Fibonacci series up to a certain number.===========
 Check if a string is a palindrome.==============
@@ -20,12 +19,12 @@ Find the sum of digits of a number.===============
 
 
 Check if a string contains a specific substring.
+Reverse a string.
+Count the number of vowels in a string.
 Find the largest and smallest numbers in an array. 
 Check if an object is empty.
 Sum all numbers in an array.
 Find the maximum number in an array.
-Count the number of vowels in a string.
-Reverse a string.
 Check if all elements in an array are positive.
 Remove duplicates from an array.
 Flatten a nested array.
