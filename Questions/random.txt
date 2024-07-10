@@ -16,11 +16,11 @@ Check if a number is an Armstrong number.==================
 Print the Fibonacci series up to a certain number.===========
 Check if a string is a palindrome.==============
 Find the sum of digits of a number.===============
+Check if a string contains a specific substring.=========
+Reverse a string.===========
+Count the number of vowels in a string.=========
 
 
-Check if a string contains a specific substring.
-Reverse a string.
-Count the number of vowels in a string.
 Find the largest and smallest numbers in an array. 
 Check if an object is empty.
 Sum all numbers in an array.

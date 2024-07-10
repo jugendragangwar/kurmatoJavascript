@@ -1,0 +1,35 @@
+
+========================================Difference Between Array and object======================================
+=>Array (position[index] matter)
+1.Arrays are best to use when the elements are numbers.
+2.The data inside an array is known as Elements.
+3.The elements can be manipulated using [].  
+4.The elements can be popped out of an array using the pop() function.
+5.Iterating through an array is possible using For loop, For..in, For..of, and ForEach().
+
+=>Array of objects(key matter)
+1.Objects are best to use when the elements’ strings (text).
+2.The data inside objects are known as Properties which consists of a key and a value.
+3.The properties can be manipulated using both.DOT notation and [].
+4.The keys or properties can be deleted by using the delete keyword.
+5.Iterating through an array of objects is possible using For..in, For..of, and ForEach().
+
+============================for loop====================
+const name=["Prasang","kapil","Sharik","aman","Ambuj","Vishal"];
+
+for(let i=0;i<name.length;i++){
+    console.log(name[i]);
+}
+
+=============================for-of loop========================
+const students=["Prasang","kapil","Sharik","aman","Ambuj","Vishal","Varun"];
+ 
+for(let name of students){
+    console.log(name);
+}
+
+========================use method of string in Array==========================
+let cities=["delhi","pune","mumbai","gurgaon","hyderabd"];
+for(let city of cities){
+    console.log(city.toUpperCase());
+}
