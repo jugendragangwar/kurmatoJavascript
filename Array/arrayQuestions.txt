@@ -1,0 +1,9 @@
+1. Find the maximum value in an array=============
+2. Reverse an array=============
+3. Filter out odd numbers from an array==========
+4. Find the index of a specific value in an array========
+5. Merge two arrays=========
+6. Find the sum of all elements in an array===========
+7. Sort an array in ascending order
+8. Find the average of all elements in an array==========
+9. Check if an array is empty
