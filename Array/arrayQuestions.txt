@@ -6,4 +6,4 @@
 6. Find the sum of all elements in an array===========
 7. Sort an array in ascending order
 8. Find the average of all elements in an array==========
-9. Check if an array is empty
+9. Check if an array is empty============
