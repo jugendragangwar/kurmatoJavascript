@@ -1,0 +1,14 @@
+1. Write a code to double all numbers in an array using Map.
+2. Use Map to convert all strings in an array to uppercase.
+3. Write a code to add 2 to all numbers in an array using Map.
+4. Use Map to convert all objects in an array to strings.
+5. Write a code to multiply all numbers in an array by 3 using Map.
+
+Reduce:
+
+1. Write a code to sum all numbers in an array using Reduce.
+2. Use Reduce to concatenate all strings in an array.
+3. Write a code to find the maximum number in an array using Reduce.
+4. Use Reduce to find the minimum number in an array.
+5. Write a code to multiply all numbers in an array using Reduce.
+
