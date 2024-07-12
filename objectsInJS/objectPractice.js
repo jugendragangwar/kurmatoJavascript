@@ -160,3 +160,16 @@ const university = {
       }
     ]
   };
+
+  console.log("faculty Title" + " " + university.colleges[0].departments[0].faculty[0].title);
+  console.log("faculty age" + " " +  university.colleges[0].departments[0].faculty[0].age);   
+  
+  console.log("head name" + " " + university.colleges[0].departments[0].head.name); 
+  console.log("Head age" + " " +  university.colleges[0].departments[0].head.age);
+
+  console.log("Student Name" + " " +  university.colleges[0].departments[0].students[0].name);
+  console.log("Student Year" + " " +  university.colleges[0].departments[0].students[0].year);
+
+  
+
+ 

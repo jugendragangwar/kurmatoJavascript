@@ -1,14 +1,31 @@
-1. Write a code to double all numbers in an array using Map.
-2. Use Map to convert all strings in an array to uppercase.
-3. Write a code to add 2 to all numbers in an array using Map.
-4. Use Map to convert all objects in an array to strings.
-5. Write a code to multiply all numbers in an array by 3 using Map.
+Map:
+
+1. Write a JavaScript program to double all numbers in an array using Map====================
+2. Write a JavaScript program to convert all strings in an array to uppercase using Map======
+3. Write a JavaScript program to add 2 to all numbers in an array using Map==================
+4. Write a JavaScript program to multiply all numbers in an array by 3 using Map=============
+5. Write a JavaScript program to convert all objects in an array to strings using Map.
 
 Reduce:
 
-1. Write a code to sum all numbers in an array using Reduce.
-2. Use Reduce to concatenate all strings in an array.
-3. Write a code to find the maximum number in an array using Reduce.
-4. Use Reduce to find the minimum number in an array.
-5. Write a code to multiply all numbers in an array using Reduce.
+1. Write a JavaScript program to sum all numbers in an array using Reduce.
+2. Write a JavaScript program to concatenate all strings in an array using Reduce.
+3. Write a JavaScript program to find the maximum number in an array using Reduce.
+4. Write a JavaScript program to find the minimum number in an array using Reduce.
+5. Write a JavaScript program to multiply all numbers in an array using Reduce.
 
+Filter:
+
+1. Write a JavaScript program to filter out all null values from an array using Filter.
+2. Write a JavaScript program to remove all duplicates from an array using Filter.
+3. Write a JavaScript program to filter out all strings from an array using Filter.
+4. Write a JavaScript program to find all prime numbers in an array using Filter.
+5. Write a JavaScript program to filter out all objects with a specific property from an array using Filter.
+
+Let me know if you need any help solving these questions!
+
+let output = 
+    employees.filter(employee => employee.department == "IT");
+for (let i = 0; i < output.length; i++) {
+    console.log(output[i].name)
+};
