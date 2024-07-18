@@ -1,0 +1,3 @@
+9. Write a program that calculates the Body Mass Index (BMI) and categorizes it. The formula for BMI is: weight / (height * height).
+Write a simple number guessing game. Provide a secret number and a guess. Based on those numbers give 
+players clues if their guess is higher, lower or correct.
