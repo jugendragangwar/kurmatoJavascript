@@ -12,3 +12,5 @@
 // console.log(typeof BigInt);
 // console.log(typeof (NaN));
 console.log(typeof Symbol);
+
+
