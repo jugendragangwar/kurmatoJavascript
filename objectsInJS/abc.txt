@@ -1,5 +1,23 @@
 =============================Methods of Objects===================================
 
+let object={
+    name:"jugendra",
+    city:"bareilly",
+    age:22
+}
+// console.log(person)
+// const key=Object.values(person);
+// console.log(key)
+
+// for(const key in person) {
+// console.log(key)
+// }
+ for (const values of object) {
+    console.log(object)
+ }
+
+
+
 // Copies properties from a source object to a target object
 Object.assign(target, source)
 
