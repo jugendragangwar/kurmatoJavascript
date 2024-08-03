@@ -1,0 +1,55 @@
+1. Find the maximum value in an array=============
+2. Reverse an array=============
+3. Filter out odd numbers from an array==========
+4. Find the index of a specific value in an array========
+5. Merge two arrays=========
+6. Find the sum of all elements in an array===========
+7. Sort an array in ascending order
+8. Find the average of all elements in an array==========
+9. Check if an array is empty============
+
+
+1.WAP to accept 15 numbers in an Array and display the Largest number 
+and Smallest number stored in it. 
+2. WAP to accept 15 numbers in an Array and display largest, second 
+largest and third largest number stored in it 
+70. WAP to accept N numbers in an array and display sum of all elements at 
+even positions. 
+71. WAP to accept N numbers in an array and add 2 to all odd numbers in 
+array and multiply 2 to all even numbers. 
+72. WAP to accept 12 numbers in an array and swap first half of Array with 
+its second half. 
+73. WAP to accept N numbers in an Array. Now accept a number and 
+position from user and insert that number at that position in the Array. 
+74. WAP to accept N numbers in an Array in ascending order. Now accept 
+a number and insert it in Array in such a way that even after insertion, Array 
+remains sorted. 
+75. WAP to accept 10 numbers in an array. Accept a position from user and 
+delete the element at that position from Array. 
+76. WAP to accept N numbers in an Array. Accept a number from user and 
+check for its existence in Array using Linear Search Technique. 
+77. WAP to accept N numbers in an Array. Accept a number from user and 
+check for the position of its existence in Array using Linear Search Technique. 
+78. WAP to accept N numbers in an Array. Accept a number from user and 
+check number of times it exists in Array using Linear Search Technique. 
+79. WAP to accept 15 numbers in an Array in descending order. Accept a 
+number from user and check for its existence using Binary Search Technique. 
+80. WAP to accept 12 numbers in an Array and sort them using Selection 
+Sort Technique. 
+81. WAP to accept 10 numbers in an Array and sort them using Bubble Sort 
+Technique. 
+82. WAP to accept 15 numbers in an Array and sort them using Insertion 
+Sort Technique. 
+83. WAP to accept N numbers in Array A and M numbers in Array B. Merge 
+elements of both arrays in Array C in such a way that first comes the element 
+of Array A and then of Array B. WAP to accept N numbers in Array A and M numbers in Array B. Merge 
+elements of both arrays in Array C in such a way that first comes even elements 
+of Array A and Array B and then odd numbers of Array A and Array B. 
+85. WAP to accept N numbers in Array A and M numbers in Array B. Merge 
+elements of both arrays in Array C in such a way that even elements of Array 
+A and Array B come in Array C from left to right and odd numbers of Array 
+A and Array B from right to left. 
+86. WAP to accept N numbers in Array A in ascending order and M numbers 
+in Array B in descending order. Merge the elements of both arrays in Array C 
+using Merge Sort Technique in such a way that Array C contain all elements 
+in descending order. 
